@@ -6,17 +6,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://giphy.com/gifs/hoppip-the-simpsons-scared-homer-simpson-9sSrddsom3yb6"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Python<br>🎯 Goals: data scientist<br>🎲 Fun fact: I love listening to music</p>
+<p align="center">✨ Iniciando na criação de bugs<br>📚 Atualmente estou aprendendo Python<br>🎯 Meu objetivo é me tornar um Cientista de Dados<br>🎲 Meu hobbe favorito é ouvir musicas</p>
 
 ###
 
@@ -26,6 +20,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulomelo0808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulomelo0808&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -52,8 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulomelo0808&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulomelo0808&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://imgflip.com/i/932u16"  />
 </div>
 
 ###
