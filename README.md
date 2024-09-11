@@ -45,8 +45,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/932u16"  />
-</div>
+<img src="https://raw.githubusercontent.com/paulomelo0808/paulomelo0808/output/snake.svg" alt="Snake animation" />
 
 ###
