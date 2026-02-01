@@ -20,11 +20,8 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 </p>
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomelo0808&layout=compact&theme=tokyonight" />
-</p>
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipaulomelo0808anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
