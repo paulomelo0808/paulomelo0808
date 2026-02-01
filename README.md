@@ -45,6 +45,10 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
   </a>
