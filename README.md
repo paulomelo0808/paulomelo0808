@@ -23,6 +23,11 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
+<p align="center">
+  <a href="https://open.spotify.com/user/31n35v477q33stpt6v6vtitv4taa">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n35v477q33stpt6v6vtitv4taa&cover_image=true&theme=tokyonight" alt="Spotify">
+  </a>
+</p>
 
 ## 📫 Conecte-se comigo:
 <p align="left">
