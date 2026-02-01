@@ -2,8 +2,6 @@
   <img src="github-header-banner.png" alt="Banner do Paulo" width="100%">
 </p>
 
-# Olá, eu sou o Paulo! 👋
-
 ### Engenheiro de Computação em formação | Aspirante a Cientista de Dados
 
 Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música. Atualmente focado em dominar o ecossistema Python e transformar dados em insights inteligentes.
