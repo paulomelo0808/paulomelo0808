@@ -41,9 +41,8 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 <br/>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" alt="Estatísticas do GitHub de Paulo Melo" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
