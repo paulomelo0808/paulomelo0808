@@ -45,6 +45,10 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&theme=tokyonight&border_radius=10" alt="Wakatime Stats de Paulo" />
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
   </a>
