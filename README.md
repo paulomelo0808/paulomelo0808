@@ -44,13 +44,18 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" />
 </p>
 
-### 🛠️ WakaTime
+## 📊 Estatísticas de Desenvolvimento (WakaTime)
 
-[![wakatime](https://wakatime.com/badge/user/paulomelo0808.svg)](https://wakatime.com/stats/user/paulomelo0808)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&layout=compact&langs_count=8&theme=radical" alt="Estatísticas do WakaTime" />
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/paulomelo0808/stats.json" alt="Tempo Total de Código">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Gráfico WakaTime" />
+</p>
+
+<br/>
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
