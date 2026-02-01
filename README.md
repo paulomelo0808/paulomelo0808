@@ -19,9 +19,6 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-## 📊 Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipaulomelo0808anuraghazra)](https://github.com/paulomelo0808/github-readme-stats)
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
@@ -31,5 +28,5 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 ## 📫 Conecte-se comigo:
 <p align="left">
 <a href="https://www.instagram.com/afz_pqp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="t.me/afz_pqp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://t.me/afz_pqp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </p>
