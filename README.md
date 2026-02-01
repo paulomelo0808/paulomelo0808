@@ -20,7 +20,7 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 </p>
 
 ## 📊 Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipaulomelo0808anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipaulomelo0808anuraghazra)](https://github.com/paulomelo0808/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
