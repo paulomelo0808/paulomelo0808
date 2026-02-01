@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="LINK_DA_SUA_IMAGEM_AQUI" alt="Banner do Paulo" width="100%">
+</p>
+
 # Olá, eu sou o Paulo! 👋
 
 ### Engenheiro de Computação em formação | Aspirante a Cientista de Dados
