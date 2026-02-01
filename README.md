@@ -18,9 +18,6 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -40,10 +37,6 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -67,4 +60,11 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 <a href="https://t.me/afz_pqp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </p>
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=paulomelo0808&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
