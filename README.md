@@ -26,6 +26,6 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 
 ## 📫 Conecte-se comigo:
 <p align="left">
-<a href="SEU_LINK_DO_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="SEU_LINK_DO_TELEGRAM" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/afz_pqp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="t.me/afz_pqp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </p>
