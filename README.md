@@ -24,8 +24,8 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 
 ---
 <p align="center">
-  <a href="https://open.spotify.com/user/31n35v477q33stpt6v6vtitv4taa">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31n35v477q33stpt6v6vtitv4taa&cover_image=true&theme=tokyonight" alt="Spotify">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
   </a>
 </p>
 
