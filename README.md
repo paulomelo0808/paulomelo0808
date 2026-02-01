@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="header-banner.png" alt="Banner do PauloM" width="100%">
+</p>
 
 ### Engenheiro de Computação em formação | Aspirante a Cientista de Dados
 
