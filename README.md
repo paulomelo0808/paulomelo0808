@@ -44,8 +44,9 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" />
 </p>
 
+### 📊 Minhas Estatísticas do WakaTime
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&theme=tokyonight&border_radius=10" alt="Wakatime Stats de Paulo" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&layout=compact" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
