@@ -46,6 +46,8 @@ Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música
 
 ### 🛠️ Linguagens que mais utilizo (WakaTime)
 
+![Total Time](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/paulomelo0808/stats.json)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulomelo0808&layout=compact&langs_count=8&theme=radical" alt="Estatísticas do WakaTime" />
 </p>
