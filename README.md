@@ -1,4 +1,4 @@
-# Olá, eu sou Paulo Melo 👨‍💻
+# Olá, eu sou Paulo Melo
 
 **Engenharia da Computação aplicada a geotecnologias, análise espacial e processamento de dados.**
 
