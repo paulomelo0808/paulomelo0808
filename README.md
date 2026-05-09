@@ -1,68 +1,98 @@
-<p align="center">
-  <img src="github-header-banner2.png" alt="Banner do PauloM" width="100%">
-</p>
+# Olá, eu sou Paulo Melo 👨‍💻
 
-### Engenheiro de Computação em formação | Aspirante a Cientista de Dados
+**Engenharia da Computação aplicada a geotecnologias, análise espacial e processamento de dados.**
 
-Engenheiro de Computação mineiro, 26 anos, apaixonado por tecnologia e música. Atualmente focado em dominar o ecossistema Python e transformar dados em insights inteligentes.
+Estudante de Engenharia da Computação com foco em desenvolvimento de sistemas, geotecnologias, análise espacial e automação de processamento geoespacial.
+
+Atuo principalmente na integração entre tecnologia, dados espaciais, sensoriamento remoto e desenvolvimento de aplicações computacionais.
 
 ---
 
-## 🚀 Sobre mim
-* 🐛 **Codificando:** Transformando café em código (e ocasionalmente criando uns bugs estratégicos).
-* 📚 **Estudando:** Aprofundando conhecimentos em Python e Data Science.
-* 🎯 **Objetivo:** Me tornar um Cientista de Dados de alto impacto.
-* 🎧 **Hobby:** Não vivo sem uma boa playlist no Spotify enquanto dropo uns códigos.
+## Áreas de atuação
 
-<br/>  
+### 💻 Engenharia de Software & Desenvolvimento
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/APIs_REST-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## My Skill Set  
+### 🌍 Geotecnologias & Análise Espacial
 
-### Frontend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=arcgis&logoColor=white)
+![GRASS GIS](https://img.shields.io/badge/GRASS_GIS-80BD40?style=flat&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5C8A2E?style=flat&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google&logoColor=white)
+![Sensoriamento Remoto](https://img.shields.io/badge/Sensoriamento_Remoto-34A853?style=flat&logoColor=white)
+![Processamento Raster](https://img.shields.io/badge/Processamento_Raster-FF8C00?style=flat&logoColor=white)
+![Modelagem Hidrológica](https://img.shields.io/badge/Modelagem_Hidrológica-1A73E8?style=flat&logoColor=white)
 
-</td><td valign="top" width="33%">
+### ⚙️ Automação & Processamento de Dados
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-2C7AC3?style=flat&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
+## 🛰️ Projetos de Geoprocessamento & Sensoriamento Remoto
 
-</td><td valign="top" width="33%">
+Desenvolvimento de análises ambientais e espaciais utilizando dados raster, modelos digitais de elevação e imagens orbitais.
 
-<br/>  
+**Principais aplicações:**
+- Suscetibilidade à erosão
+- Análise de drenagem e mapeamento hidrológico
+- Classificação de uso e cobertura do solo
+- Detecção de exposição do solo
+- Monitoramento de avanço de voçorocas
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulomelo0808&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10" />
-</p>
+**Ferramentas:**
+`QGIS` `GRASS GIS` `Python` `Rasterio` `Google Earth Engine` `GDAL`
 
+---
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=graecus_&cover_image=true&theme=default&show_offline=false&background_color=e5a50a&interchange=false&profanity=false&bar_color=e01b24">
-  </a>
-</p>
+## 🏥 Reabilita360
 
+Projeto de extensão desenvolvido durante a graduação em Engenharia da Computação, voltado para apoio à reabilitação motora e acompanhamento fisioterapêutico.
 
-## 📫 Conecte-se comigo:
-<p align="left">
-<a href="https://www.instagram.com/afz_pqp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://t.me/afz_pqp" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</p>
+A plataforma integra:
+- Monitoramento de sessões
+- Dashboards clínicos
+- Feedback visual em tempo real
+- Gerenciamento de pacientes
+- Interface adaptada para acessibilidade
 
-<br/>  
+**Tecnologias:**
+`React` `Node.js` `Prisma` `PostgreSQL`
+
+---
+
+## 🎯 Objetivo
+
+Aplicar Engenharia da Computação no desenvolvimento de soluções envolvendo análise espacial, sensoriamento remoto, processamento de dados geográficos e automação computacional.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=paulomelo0808&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulomelo0808&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulomelo0808&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 📫 Contato
+
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:paulomelo0808@gmail.com)
